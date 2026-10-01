@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+work/
+work2/
+raw/
+music/
+fonts/
+*.yuv
+*.mkv
+*.log
